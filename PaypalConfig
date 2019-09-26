@@ -1,0 +1,7 @@
+package com.knickglobal.demopaypal;
+
+public class PayPalConfig {
+
+    public static final String PAYPAL_CLIENT_ID = "AXQPfil7wMoCCgr5WgFFk75JpfZzEVOEEQq8wqEsZ2ke5EoA6P1RqWHkve-J9hr5pDOOcaR0Q8BMoZIP";
+
+}
